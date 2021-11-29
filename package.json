@@ -1,0 +1,23 @@
+{
+  "name": "yargs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosemarym2/YargsApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosemarym2/YargsApp/issues"
+  },
+  "homepage": "https://github.com/rosemarym2/YargsApp#readme",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
